@@ -8,6 +8,31 @@
 
 }
 
+.header2{
+	display:flex;
+	justify-content:center;
+	font-size:25px;
+	font-style:italic;
+	color:red;
+}
+
+
+.header3{
+	display:flex;
+	justify-content:center;
+	font-size:25px;
+	font-style:italic;
+	color:red;
+}
+/*.header3{
+	display:flex;
+	justify-content:center;
+	font-size:25px;
+	font-style:italic;
+	color:red;
+
+}*/
+
 /*.square{
 	background-color: red;
 	width: 100px;
